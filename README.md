@@ -15,13 +15,13 @@ It uses a **Linear Regression** model, with proper data cleaning, preprocessing,
 
 ## 📂 Dataset
 - **Source:** [Kaggle – Quikr Car Dataset]
-- **Features:**
-  - `Name` – Car name & model
-  - `Year` – Year of manufacture
-  - `Company` – Car brand
-  - `Kms_driven` – Total kilometers driven
-  - `Fuel_type` – Petrol/Diesel/CNG
-  - `Price` – Selling price (Target)
+- **Features:**.
+  - `Name` – Car name & model.
+  - `Year` – Year of manufacture.
+  - `Company` – Car brand.
+  - `Kms_driven` – Total kilometers driven.
+  - `Fuel_type` – Petrol/Diesel/CNG.
+  - `Price` – Selling price (Target).
 
 ---
 
